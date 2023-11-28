@@ -1,4 +1,4 @@
 # Classic-Pong-for-WEB
-Jogo clássico "PONG" feito com a Tríade Web (HTML, CSS e JavaScript).
+Classic "PONG" game made with the Web Triad (HTML, CSS and JavaScript).
 
 ![Screenshot](frontpage.png)
